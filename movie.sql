@@ -1,6 +1,6 @@
-drop table movie;
+drop table if exists movie;
 
-create table movie
+create table if not exists movie
 (
 	id smallint,
 	title varchar(70),
