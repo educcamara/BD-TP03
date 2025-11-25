@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data dir
+data/
+
+# Other repositories dependencies
+tpch-dbgen/
+tpch-pgsql/
