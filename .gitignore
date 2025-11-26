@@ -212,3 +212,4 @@ data/
 # Other repositories dependencies
 tpch-dbgen/
 tpch-pgsql/
+.python-version
